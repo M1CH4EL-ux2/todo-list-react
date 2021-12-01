@@ -10,5 +10,5 @@
     [x] Função para limpar todos os itens
     
 ## Objetivo
-    
-    O objetivo deste projeto é bem simples: listar suas tarefas para ter mais controle sobre o que deve fazer. ヾ(￣▽￣) 
+
+O objetivo deste projeto é bem simples: listar suas tarefas para ter mais controle sobre o que deve fazer. ヾ(￣▽￣) 
